@@ -1,0 +1,40 @@
+.full-pane {
+  border: 1px solid;
+}
+
+.chat-area {
+  margin-bottom: 100px;
+}
+
+.left-pane {
+  margin-top: 30px;
+  height: 100vh;
+}
+
+.input-area {
+  position: fixed;
+  bottom: 0;
+  width: 900px;
+}
+
+.right-pane {
+  position: fixed;
+  right: 0;
+  height: 100vh;
+  background-color: aliceblue;
+}
+
+.chat-content {
+  font-family: cursive;
+  margin: 5px 5px 5px 5px;
+}
+
+.user-input {
+  margin-left: 70%;
+}
+
+#map {
+  margin-top: 100px;
+  width: 450px;
+  height: 450px;
+}

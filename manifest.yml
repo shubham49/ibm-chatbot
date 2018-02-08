@@ -1,0 +1,5 @@
+---
+applications:
+- name:    chatbot-shubham
+  random-route: true
+  memory:  128M
